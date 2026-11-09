@@ -2,8 +2,8 @@ import streamlit as st
 import streamlit.components.v1 as components
 
 # 設定網頁標題與寬度
-st.set_page_config(page_title="內戰_怪人集結", layout="wide")
-st.title("內戰_怪人集結")
+st.set_page_config(page_title="你以為沒有了嗎，哈，四天王有五人", layout="wide")
+st.title("你以為沒有了嗎，哈，四天王有五人")
 
 game_html = """
 <!DOCTYPE html>
